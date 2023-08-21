@@ -6,7 +6,7 @@ Welcome to my project. This repository contains software designed for Discord in
 
 <img src="https://cdn.discordapp.com/attachments/1138962615293460521/1143214022360055878/image.png" alt="imagem">
 
-## Pré-requisitos
+## Requirements
 
 To work with the source code of this software, the following requirements are necessary:
 
