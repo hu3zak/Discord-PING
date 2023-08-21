@@ -24,10 +24,9 @@ Follow these steps to run the project on your machine:
 
 3. The software is written in C#, so download all .NET components.
 
-4. 
+4. Download the folder 'Discord-PING' from this repository.
 
 5. Navigate to the folder and open the **DiscordPing.sln** file.
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+6. Evaluate the software and have fun modifying it.😀😄
 
