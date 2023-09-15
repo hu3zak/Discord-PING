@@ -12,6 +12,8 @@ To work with the source code of this software, the following requirements are ne
 
 - [Visual Studio](visualstudio.microsoft.com/downloads/)
 
+- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/)
+
 ## Running the Project
 
 Follow these steps to run the project on your machine:
