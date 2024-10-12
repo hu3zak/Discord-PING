@@ -4,7 +4,7 @@ Welcome to my project. This repository contains software designed for Discord in
 
 ## Images
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="yvqYdU4"  ><a href="//imgur.com/yvqYdU4">Discord-PING image</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Discord-PINGImage](https://imgur.com/gallery/discord-ping-image-yvqYdU4)
 
 ## Requirements
 
