@@ -4,7 +4,7 @@ Welcome to my project. This repository contains software designed for Discord in
 
 ## Images
 
-![Discord-PINGImage](https://imgur.com/gallery/discord-ping-image-yvqYdU4)
+![Discord-PINGImage](https://imgur.com/yvqYdU4)
 
 ## Requirements
 
