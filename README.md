@@ -4,7 +4,7 @@ Welcome to my project. This repository contains software designed for Discord in
 
 ## Images
 
-<img src="https://imgur.com/yvqYdU4" alt="imagem">
+<img src="https://imgur.com/gallery/yvqYdU4" alt="imagem">
 
 ## Requirements
 
